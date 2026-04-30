@@ -1,0 +1,145 @@
+# TensionUniverse · Chronicles
+
+This folder collects all long-form **story arcs** for the Tension Universe setting.  
+Each arc is written as a small “chronicle” with three parallel views:
+
+1. **Story** – narrative, written for non-technical readers  
+2. **Science** – technical / MVP sketch behind the story  
+3. **FAQ** – questions from readers and work-in-progress answers  
+
+All files are plain text (`.md`), so they can be versioned, remixed, and quoted like any other part of WFGY.
+
+---
+
+## Current chronicles
+
+### TU-CH00 · Memo from a Tension Historian (year 2413)
+
+* **Story (EN)** – [`TU-CH00_TensionHistorian__story_en.md`](./TU-CH00_TensionHistorian__story_en.md)
+
+---
+
+### TU-CH01 · Human Tension (crushes, relationships, comparison)
+
+* **Story (EN)** – [`TU-CH01_HumanTension__story_en.md`](./TU-CH01_HumanTension__story_en.md)
+* **Science (EN)** – [`TU-CH01_HumanTension__science_en.md`](./TU-CH01_HumanTension__science_en.md)
+* **FAQ (EN)** – [`TU-CH01_HumanTension__faq_en.md`](./TU-CH01_HumanTension__faq_en.md)
+
+---
+
+### TU-CH02 · Tension Recipes (from 0/1 switch to full tension line)
+
+* **Story (EN)** – [`TU-CH02_TensionRecipes__story_en.md`](./TU-CH02_TensionRecipes__story_en.md)
+* **Science (EN)** – [`TU-CH02_TensionRecipes__science_en.md`](./TU-CH02_TensionRecipes__science_en.md)
+* **FAQ (EN)** – [`TU-CH02_TensionRecipes__faq_en.md`](./TU-CH02_TensionRecipes__faq_en.md)
+
+---
+
+### TU-CH03 · Cosmic Bedsheet (universe as a tension field)
+
+* **Story (EN)** – [`TU-CH03_CosmicBedsheet__story_en.md`](./TU-CH03_CosmicBedsheet__story_en.md)
+* **Science (EN)** – [`TU-CH03_CosmicBedsheet__science_en.md`](./TU-CH03_CosmicBedsheet__science_en.md)
+* **FAQ (EN)** – [`TU-CH03_CosmicBedsheet__faq_en.md`](./TU-CH03_CosmicBedsheet__faq_en.md)
+
+---
+
+### TU-CH04 · Tension Physics (Big Bang, gravity, dark matter, time arrow)
+
+* **Story (EN)** – [`TU-CH04_TensionPhysics__story_en.md`](./TU-CH04_TensionPhysics__story_en.md)
+* **Science (EN)** – [`TU-CH04_TensionPhysics__science_en.md`](./TU-CH04_TensionPhysics__science_en.md)
+* **FAQ (EN)** – [`TU-CH04_TensionPhysics__faq_en.md`](./TU-CH04_TensionPhysics__faq_en.md)
+
+---
+
+### TU-CH05 · Quantum Observer (superposition, measurement, uncertainty)
+
+* **Story (EN)** – [`TU-CH05_QuantumObserver__story_en.md`](./TU-CH05_QuantumObserver__story_en.md)
+* **Science (EN)** – [`TU-CH05_QuantumObserver__science_en.md`](./TU-CH05_QuantumObserver__science_en.md)
+* **FAQ (EN)** – [`TU-CH05_QuantumObserver__faq_en.md`](./TU-CH05_QuantumObserver__faq_en.md)
+
+---
+
+### TU-CH06 · Tension Islands (life, consciousness, free will)
+
+* **Story (EN)** – [`TU-CH06_TensionIslands__story_en.md`](./TU-CH06_TensionIslands__story_en.md)
+* **Science (EN)** – [`TU-CH06_TensionIslands__science_en.md`](./TU-CH06_TensionIslands__science_en.md)
+* **FAQ (EN)** – [`TU-CH06_TensionIslands__faq_en.md`](./TU-CH06_TensionIslands__faq_en.md)
+
+---
+
+### TU-CH07 · Outsourced Imagination (short video, AI companions, tension fuel)
+
+* **Story (EN)** – [`TU-CH07_OutsourcedImagination__story_en.md`](./TU-CH07_OutsourcedImagination__story_en.md)
+* **Science (EN)** – [`TU-CH07_OutsourcedImagination__science_en.md`](./TU-CH07_OutsourcedImagination__science_en.md)
+* **FAQ (EN)** – [`TU-CH07_OutsourcedImagination__faq_en.md`](./TU-CH07_OutsourcedImagination__faq_en.md)
+
+---
+
+### TU-CH08 · Civilization Crisis (resource limits, coordination failure, collapse risk)
+
+* **Story (EN)** – [`TU-CH08_CivilizationCrisis__story_en.md`](./TU-CH08_CivilizationCrisis__story_en.md)
+* **Science (EN)** – [`TU-CH08_CivilizationCrisis__science_en.md`](./TU-CH08_CivilizationCrisis__science_en.md)
+* **FAQ (EN)** – [`TU-CH08_CivilizationCrisis__faq_en.md`](./TU-CH08_CivilizationCrisis__faq_en.md)
+
+---
+
+### TU-CH09 · AI Tension Partner (AI as reasoning amplifier and tension mirror)
+
+* **Story (EN)** – [`TU-CH09_AITensionPartner__story_en.md`](./TU-CH09_AITensionPartner__story_en.md)
+* **Science (EN)** – [`TU-CH09_AITensionPartner__science_en.md`](./TU-CH09_AITensionPartner__science_en.md)
+* **FAQ (EN)** – [`TU-CH09_AITensionPartner__faq_en.md`](./TU-CH09_AITensionPartner__faq_en.md)
+
+---
+
+### TU-CH10 · Tension 131 Exam (stress-testing the Tension Universe model)
+
+* **Story (EN)** – [`TU-CH10_Tension131Exam__story_en.md`](./TU-CH10_Tension131Exam__story_en.md)
+* **Science (EN)** – [`TU-CH10_Tension131Exam__science_en.md`](./TU-CH10_Tension131Exam__science_en.md)
+* **FAQ (EN)** – [`TU-CH10_Tension131Exam__faq_en.md`](./TU-CH10_Tension131Exam__faq_en.md)
+
+---
+
+## License and remix policy
+
+All narrative content in `TensionUniverse/Chronicles` is released under the same **MIT License** as the rest of WFGY. That means you are explicitly welcome to:
+
+* fork, remix, and extend these stories;
+* translate them into other languages;
+* build new worlds, characters, and experiments on top of this setting,
+
+as long as you keep the MIT attribution and license notice.
+
+If you create derivative works, you are encouraged (but not required) to:
+
+* reference the original chronicle ID (for example `TU-CH01`);
+* link back to this repository so others can trace the source.
+
+---
+
+## Scientific disclaimer
+
+These chronicles are **science fiction** and **speculative worldbuilding**. They are written to make abstract ideas about “tension”, alignment, and complex systems easier to think about, and to provide narrative test cases for WFGY-style tools.
+
+They are **not**:
+
+* experimental proof that the “Tension Universe” model is physically correct;
+* a claim that any specific cosmology, physics, or AI alignment scheme has been validated;
+* official consensus views of any institution, journal, or research community.
+
+Equations, concepts, and terminology that appear in these stories may be inspired by real physics, mathematics, or computer science, but here they are used in a **fictional** setting. Any resemblance between events in these chronicles and real-world predictions, policies, markets, or individuals is coincidental or metaphorical and should not be treated as scientific evidence or advice.
+
+Use these texts as prompts, thought experiments, and creative seeds. If you want to test or challenge the underlying ideas in a rigorous way, please go back to the technical parts of the repository (WFGY 3.0 demo, ProblemMap, and related MVPs) and design proper experiments or mathematical arguments there.
+
+---
+
+## Navigation
+
+| Section | Description |
+|----------|-------------|
+| [Event Horizon](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md) | Official entry point of Tension Universe (WFGY 3.0 Singularity Demo) |
+| [Chronicles](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/Chronicles/README.md) | Long-form story arcs and parallel views (story / science / FAQ) |
+| [BlackHole Archive](https://github.com/onestardao/WFGY/tree/main/TensionUniverse/BlackHole) | 131 S-class problems (Q001–Q131) encoded in Effective Layer language |
+| [Experiments](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/Experiments/README.md) | Reproducible MVP runs and observable tension patterns |
+| [Charters](https://github.com/onestardao/WFGY/tree/main/TensionUniverse/Charters) | Scope, guardrails, encoding limits and constraints |
+| [r/TensionUniverse](https://www.reddit.com/r/TensionUniverse/) | Community discussion and ongoing story threads |
+

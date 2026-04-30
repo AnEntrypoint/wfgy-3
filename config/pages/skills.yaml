@@ -1,0 +1,22 @@
+id: skills
+title: Skills
+template: grid
+content:
+  heading: "Capabilities"
+  description: "Recognition patterns that compose this project's skill set."
+  items:
+    - name: "singularity-boot"
+      description: "See skills/singularity-boot.md"
+      href: "https://github.com"
+    - name: "sha256-verification"
+      description: "See skills/sha256-verification.md"
+      href: "https://github.com"
+    - name: "tension-resolution"
+      description: "See skills/tension-resolution.md"
+      href: "https://github.com"
+    - name: "event-horizon-navigation"
+      description: "See skills/event-horizon-navigation.md"
+      href: "https://github.com"
+    - name: "black-hole-recovery"
+      description: "See skills/black-hole-recovery.md"
+      href: "https://github.com"

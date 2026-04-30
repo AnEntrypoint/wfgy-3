@@ -1,0 +1,8 @@
+id: home
+title: Home
+template: hero
+content:
+  heading: "WFGY 3.0 — Tension Universe"
+  subheading: "Frontier reasoning: Singularity Demo, SHA256-verifiable TXT pack, Event Horizon."
+  cta_text: "Read the paper"
+  cta_href: "./paper.html"

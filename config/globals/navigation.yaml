@@ -1,0 +1,14 @@
+navigation:
+  - text: Home
+    href: /
+  - text: Paper
+    href: /paper
+  - text: Skills
+    href: /skills
+  - text: Original
+    href: /original
+footer:
+  text: "WFGY 3.0 — Tension Universe — an extraction from the WFGY ecosystem."
+  social:
+    - name: WFGY upstream
+      url: https://github.com/onestardao/WFGY
